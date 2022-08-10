@@ -1,6 +1,5 @@
 import { StackContext, Api, use } from "@serverless-stack/resources";
 import { Function, Runtime } from 'aws-cdk-lib/aws-lambda';
-import * as lambda from 'aws-cdk-lib/aws-lambda';
 import * as s3 from 'aws-cdk-lib/aws-s3';
 import * as cdk from "@aws-cdk/core";
 import * as sst from '@serverless-stack/resources';
