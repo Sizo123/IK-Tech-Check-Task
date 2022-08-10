@@ -1,0 +1,5 @@
+{
+  "name": "ik-project",
+  "region": "af-south-1",
+  "main": "stacks/index.ts"
+}
